@@ -6,7 +6,7 @@ import numpy as np
 st.title("Hello Streamlit")
 
 ## Diplay a Simple Text
-st.write("This is a imple text")
+st.write("This is a Simple text")
 
 ##create a simple Dataframe
 
